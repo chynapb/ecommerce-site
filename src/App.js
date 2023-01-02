@@ -2,7 +2,7 @@ import { Routes, Route } from "react-router-dom";
 import { Container } from "reactstrap";
 import { Shop } from "./pages/Shop";
 import { About } from "./pages/About";
-import { Cart } from "./pages/Cart";
+import { Contact } from "./pages/Contact";
 import { Navbar } from "./components/Navbar";
 
 function App() {
@@ -13,7 +13,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Shop />} />
         <Route path="/about" element={<About />} />
-        <Route path="/cart" element={<Cart />} />
+        <Route path="/contact" element={<Contact />} />
       </Routes>
     </Container>
     </>
