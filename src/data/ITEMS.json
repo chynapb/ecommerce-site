@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "name": "Headphones",
+        "price": 299.99,
+        "imgUrl": "/imgs/headphones.jpg"
+
+    },
+    {
+        "id": 2,
+        "name": "Running Shoes",
+        "price": 89.99,
+        "imgUrl": "/imgs/shoes.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Camera",
+        "price": 499.99,
+        "imgUrl": "/imgs/camera.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Lamp",
+        "price": 29.99,
+        "imgUrl": "/imgs/lamp.jpg"
+    },
+    {
+        "id": 5, 
+        "name": "Laptop",
+        "price": 1499.99,
+        "imgUrl": "/imgs/computer.jpg"
+    },
+    {
+        "id": 6, 
+        "name": "T-Shirt",
+        "price": 19.99,
+        "imgUrl": "/imgs/shirt.jpg"
+    },
+    {
+        "id": 7, 
+        "name": "Jacket",
+        "price": 79.99,
+        "imgUrl": "/imgs/jacket.jpg"
+    },
+    {
+        "id": 8, 
+        "name": "Coffee Maker",
+        "price": 59.99,
+        "imgUrl": "/imgs/coffee.jpg"
+    },
+    {
+        "id": 9, 
+        "name": "Wristwatch",
+        "price": 1999.99,
+        "imgUrl": "/imgs/watch.jpg"
+    }
+]
